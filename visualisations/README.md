@@ -1,1 +1,1 @@
-This folder contains charts and visual outputs generated during the analysis.
+This folder contains charts and visual outputs generated during the analysis. 
