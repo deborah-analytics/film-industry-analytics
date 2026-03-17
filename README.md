@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyses film and television industry data to explore the factors influencing production success, audience ratings, and content performance.
+This project analyses large-scale film and television datasets to identify key factors influencing production success, audience ratings, and content performance.
 
 The analysis integrates cloud infrastructure, distributed data processing, SQL-based data merging, and visual analytics to process and analyse large-scale entertainment datasets.
 
@@ -77,4 +77,28 @@ The analysis investigates:
 
 ## Outcome
 
-The project demonstrates an end-to-end data analytics workflow integrating cloud infrastructure, distributed data processing, statistical analysis, and NoSQL querying to generate insights about the film and television industry.
+This project demonstrates an end-to-end data analytics workflow, delivering actionable insights into factors that drive content performance in the film and television industry.
+
+
+
+
+
+## Visual Insights
+
+### Top Genres by Average Rating
+![Top Genres](visualisations/top_genres.png)
+
+---
+
+### Runtime vs Average Rating
+![Runtime vs Rating](visualisations/runtime_vs_rating.png)
+
+---
+
+### Rating Trends Over Time
+![Ratings Over Time](visualisations/ratings_over_time.png)
+
+
+---
+
+This project highlights practical experience in handling large datasets, building scalable data pipelines, and translating analytical results into meaningful business insights.
