@@ -1,1 +1,3 @@
-This folder contains Jupyter or Colab notebooks used for exploratory analysis and modelling. 
+This folder is reserved for exploratory notebooks.
+
+The main data processing and analysis pipeline is implemented in the `scripts` directory.
