@@ -14,6 +14,7 @@ spark = SparkSession.builder.appName("FilmIndustryAnalysis").getOrCreate()
 # ----------------------------
 # File paths
 # Update these to your own environment when running locally or in Colab
+# NOTE: Update file paths based on your local or cloud environment
 # ----------------------------
 PATH_RATINGS = "/content/drive/My Drive/Datasets/title.ratings.csv"
 PATH_BASICS = "/content/drive/My Drive/Datasets/title.basics.csv"
